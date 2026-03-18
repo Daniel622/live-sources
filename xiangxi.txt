@@ -822,10 +822,6 @@ Channel V,https://5266.kstore.space/k-web/ku9/js/tvghjs.js?id=VMUSIC-HD_4000
  
 
 🇹🇼付费频道,#genre#
-开通付费频道,http://
-联系管理员,http://
-QQ574244808,http://
-
 
 TVBS 歡樂台,http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnNodWFubGVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
 TVBS HD,http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
