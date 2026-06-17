@@ -12,13 +12,7 @@
 
 ## 加速链接
 
-### DIY直播
-- https://hub.glowp.xyz/https://raw.githubusercontent.com/wujiangliu/live-sources/main/DIY.txt
 
-
-### 电视家重生
-
-- https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E7%94%B5%E8%A7%86%E5%AE%B6.m3u
 
 ### 好朋友直播（几万电影频道）
 
